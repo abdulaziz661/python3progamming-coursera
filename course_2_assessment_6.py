@@ -57,4 +57,3 @@ while i < len(lst):
     
 print(sum2)
 
-#
